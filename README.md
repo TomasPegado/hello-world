@@ -1,3 +1,3 @@
 # hello-world
 Apenas mais um repositório
-Aluno de Matematica Aplicada na Fgv
+Aluno de Economia na Fgv
